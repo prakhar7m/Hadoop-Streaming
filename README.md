@@ -1,8 +1,8 @@
 # Hadoop-Streaming
 
--> Build EMR cluster  
+-> Build EMR cluster    
 -> Interact with HDFS on your cluster  
--> Run Hadoop Streaming Job on your cluster  
+-> Run Hadoop Streaming Job on your cluster    
 
 1. Provide the Driver Node and Cluster Metadata
 2. Run some HDFS commands
