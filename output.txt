@@ -1,0 +1,1 @@
+packageJobJar: [] [/usr/lib/hadoop/hadoop-streaming-2.10.1-amzn-2.jar] /tmp/streamjob6715284785781356703.jar tmpDir=null

@@ -1,0 +1,3 @@
+Number of files and instances increased while the amount of time taken decreased when we scaled
+:wq
+
